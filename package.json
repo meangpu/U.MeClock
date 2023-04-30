@@ -1,9 +1,9 @@
 {
-  "name": "com.meangpu.tools",
+  "name": "com.meangpu.clock",
   "version": "0.0.1",
   "unity": "2021.3",
-  "displayName": "MeTools",
-  "description": "the helpful des \n very use ful",
+  "displayName": "MeClock",
+  "description": "clock system that have hour and min and sec, use tmp",
   "type": "template",
   "author": {
     "name": "meangpu",
@@ -11,11 +11,5 @@
   },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
-  },
-  "samples": [
-    {
-      "displayName": "ColorSet",
-      "path": "Samples~/ColorSet"
-    }
-  ]
+  }
 }
